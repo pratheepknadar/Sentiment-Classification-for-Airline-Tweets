@@ -1,0 +1,4 @@
+Python 3.8
+Jupyter notebook/kaggle notebook/ google collab
+Nltk Libraries
+scikit learn libraries
